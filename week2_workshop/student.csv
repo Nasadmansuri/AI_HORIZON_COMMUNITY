@@ -1,0 +1,51 @@
+Name,Age,City,Country,Math,English,Science,History,Art,Grade
+Liam,14,New York,USA,88,76,91,83,70,B+
+Sofia,15,Madrid,Spain,95,89,93,90,85,A
+Yuki,13,Tokyo,Japan,99,72,97,80,65,A
+Amara,16,Lagos,Nigeria,74,88,78,91,92,B
+Ethan,14,London,UK,82,95,80,77,68,B+
+Priya,15,Mumbai,India,91,84,89,86,74,A-
+Carlos,13,Mexico City,Mexico,78,80,75,88,95,B+
+Mei,16,Beijing,China,96,70,94,82,60,A-
+Fatima,14,Cairo,Egypt,72,91,70,95,88,B
+Noah,15,Sydney,Australia,85,87,83,79,72,B+
+Aisha,13,Nairobi,Kenya,80,93,77,89,90,B+
+Dmitri,16,Moscow,Russia,94,68,96,75,55,A-
+Isabella,14,Rome,Italy,79,90,81,92,88,B+
+Jin,15,Seoul,South Korea,97,74,95,83,62,A
+Zara,13,Dubai,UAE,83,86,85,80,78,B+
+Mateo,16,Buenos Aires,Argentina,76,88,74,90,94,B
+Hana,14,Osaka,Japan,92,75,90,78,70,A-
+Kwame,15,Accra,Ghana,70,85,72,88,96,B
+Emma,13,Paris,France,86,94,84,87,80,A-
+Arjun,16,Delhi,India,98,76,96,80,58,A
+Leila,14,Tehran,Iran,81,82,83,85,75,B+
+Lucas,15,São Paulo,Brazil,87,83,85,81,73,B+
+Nadia,13,Warsaw,Poland,90,89,88,84,79,A-
+Tariq,16,Karachi,Pakistan,77,80,79,87,82,B
+Chloe,14,Toronto,Canada,84,91,82,78,85,B+
+Ravi,15,Colombo,Sri Lanka,93,77,91,76,67,A-
+Elena,13,Athens,Greece,82,88,80,90,86,B+
+Marcus,16,Chicago,USA,75,84,73,86,91,B
+Yara,14,Beirut,Lebanon,88,87,86,83,77,B+
+Soren,15,Copenhagen,Denmark,91,85,89,80,72,A-
+Amina,13,Tunis,Tunisia,73,90,71,92,89,B
+Felix,16,Berlin,Germany,95,79,93,77,64,A-
+Layla,14,Amman,Jordan,80,86,82,88,83,B+
+Hiroshi,15,Kyoto,Japan,97,71,95,79,61,A
+Valentina,13,Bogotá,Colombia,83,87,81,85,88,B+
+Omar,16,Riyadh,Saudi Arabia,78,81,76,89,80,B
+Ingrid,14,Stockholm,Sweden,89,88,87,82,76,A-
+Kofi,15,Kumasi,Ghana,71,86,73,91,95,B
+Mia,13,Melbourne,Australia,85,92,83,80,81,B+
+Andrei,16,Bucharest,Romania,92,76,90,78,65,A-
+Sara,14,Lisbon,Portugal,81,89,79,87,84,B+
+Kai,15,Honolulu,USA,86,84,88,76,79,B+
+Nour,13,Alexandria,Egypt,74,91,72,94,90,B
+Pita,16,Suva,Fiji,77,83,75,80,93,B
+Aditi,14,Pune,India,93,78,91,77,68,A-
+Leo,15,Vienna,Austria,90,86,88,83,73,A-
+Eshe,13,Addis Ababa,Ethiopia,72,88,70,90,94,B
+Rafael,16,Lisbon,Portugal,87,82,85,84,71,B+
+Hira,14,Lahore,Pakistan,80,84,82,86,80,B+
+Tomas,15,Prague,Czech Republic,94,80,92,79,66,A-
